@@ -5,7 +5,7 @@ months = age_number * 12
 print(f"{age_number} is equal to {months} months.")
 
 
-# The other form, @roxana
+# The other form, @roxana canizares
 user_age = int(input("Enter your age: "))
 months = user_age * 12
 days = months * 30
