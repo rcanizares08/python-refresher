@@ -8,10 +8,11 @@ __pycache__
 *.hfp
 tempCodeRunnerFile.py
 .vscode
-.vscode/*
+.vscode/
 .idea/
 videos
 exports
 captions
 .venv/
 
+.vscode/settings.json
