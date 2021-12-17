@@ -7,8 +7,11 @@ __pycache__
 *.mkv
 *.hfp
 tempCodeRunnerFile.py
-.vscode/
+.vscode
+.vscode/*
 .idea/
 videos
 exports
 captions
+.venv/
+
